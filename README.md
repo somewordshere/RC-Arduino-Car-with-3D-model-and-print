@@ -14,7 +14,7 @@ The Bluetooth app sends an ASCII character to the Arduino. Arduino Uno then proc
 ![PXL_20230607_100034593](https://github.com/somewordshere/RC-Arduino-Car-with-3D-model-and-print/assets/16988740/e454008d-41e1-4859-bda4-10ded2c14b84)
 
 
-# Required:
+# Hardware:
 - Arduino Uno R3 Board
 - DC Motor 4x
 - Motor Driver L298N x2
@@ -25,7 +25,7 @@ The Bluetooth app sends an ASCII character to the Arduino. Arduino Uno then proc
 - Copper wires
 - Solder and Soldering Iron
 
-# Tools:
+# Software:
 - Arduino IDE
 - Blender
 - [Bluetooth RC Car](play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) - the app sends an ASCII character to the Arduino. Arduino Uno then processes the character and controls the RC car's motors.
@@ -35,7 +35,8 @@ Blender was used to create the model and it was sent to 3rd party to print:
 
 ![5](https://github.com/somewordshere/RC-Arduino-Car-with-3D-model-and-print/assets/16988740/2c959de0-e90c-4299-ad9c-e47b2d2fc18f)
 
-Model in slicing program
+Model in the slicing program:
+
 ![1](https://github.com/somewordshere/RC-Arduino-Car-with-3D-model-and-print/assets/16988740/799fba3d-1ba6-476c-98a4-f3f11f60c3e7)
 
 The final model looks like this:
